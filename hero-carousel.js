@@ -1,7 +1,7 @@
 (()=>{
 const hero=document.getElementById('hero');
 const slides=[
- {tag:'STYLE INSPIRATION / 潮流发型',label:'水光银发灵感',images:['assets/hero-inspiration-1.jpg'],alt:['水光银发与蓝色礼服造型灵感'],source:'灵感素材 · 新发型案例'},
+ {tag:'STYLE INSPIRATION / 潮流发型',label:'水光银发灵感',images:['assets/hero-inspiration-framed.png'],alt:['完整展示的水光银发与蓝色礼服造型灵感'],source:'灵感素材 · 新发型案例'},
  {tag:'SALON TRANSFORMATION / 造型案例',label:'男士发型前后对比',images:['assets/hero-men-before.jpg','assets/hero-men-after.jpg','assets/hero-men-stylist.jpg'],alt:['男士佩戴假发前','男士佩戴假发后','发型师与顾客的造型案例'],source:'造型案例 · 前后效果与服务场景'},
  {tag:'STYLE INSPIRATION / 潮流发型',label:'银灰短发细节',images:['assets/hero-inspiration-2.jpg'],alt:['银灰短发近景灵感'],source:'灵感素材 · 发型细节'}
 ];
